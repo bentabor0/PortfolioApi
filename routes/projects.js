@@ -4,7 +4,7 @@ var router = express.Router();
 let projects = [
     {
         // Software Architecture 
-        name: "Software Architecture Project",
+        name: "Budget Planner",
         link: "https://budgetplanner-2021.azurewebsites.net",
         src: "photo-BudgetPlannerPhoto.png"
     },
